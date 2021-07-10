@@ -71,3 +71,6 @@ $(document).ready(function(){
         }
     });
 });
+
+var music=document.getElementById('music');
+music.style.display='none';
